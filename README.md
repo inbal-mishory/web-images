@@ -1,9 +1,7 @@
 # web-images
 
 ## Images
-<img src="arianaGrande.jpg" width="200"/>
-<img src="axwellIngro.jpg" width="200"/>
-<img src="ellking.jpg" width="200"/>
+![alt text](arianaGrande.jpg) ![alt text](axwellIngro.jpg) ![alt text](ellking.jpg) 
 <img src="gorillaz.jpg" width="200"/>
 <img src="download.jpg" width="200"/>
 <img src="hurts-desire.jpg" width="200"/>
