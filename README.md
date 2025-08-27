@@ -9,7 +9,7 @@ Images to be used in online projects with no storage
 ![alt text](guyAndMelancholyScene.jpeg)
 
 ## Icons
-<span style="display:inline-block;background-color:#585859;height:52px;">![alt text](circle-full.webp)
+<span style="display:inline-block;background-color:gray;height:52px;">![alt text](circle-full.webp)
 ![alt text](circle.webp)
 ![alt text](battery.png)
 ![alt text](down-arrow.webp)
